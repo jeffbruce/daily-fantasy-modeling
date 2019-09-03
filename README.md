@@ -7,4 +7,4 @@ Modeling daily fantasy NFL football to predict the amount of points players will
 - top level directory: Where the analyses are found.
 
 ## Analyses
-Core analysis can be found in [draftkings_modeling.ipynb](https://github.com/jeffbruce/daily-fantasy-modeling/blob/master/draftkings_modeling.ipynb).
+Core analysis can be found in [draftkings_modeling.ipynb](https://github.com/jeffbruce/daily-fantasy-modeling/blob/master/draftkings_modeling.ipynb).  If the link doesn't work, try [nbviewer](https://nbviewer.jupyter.org/), it seems to be more consistently capable of rendering jupyter notebooks.
